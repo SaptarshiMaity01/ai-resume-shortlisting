@@ -171,7 +171,7 @@ def parse_analysis_response(response):
 
 # Streamlit UI
 st.set_page_config(page_title="AI Resume Screener Pro", layout="wide")
-st.title("🚀 AI-Powered Resume Screening Tool")
+st.title("🚀 Ai-Resume-Shortlisting")
 st.markdown("""
     <style>
     .big-font { font-size:18px !important; }
