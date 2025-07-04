@@ -5,3 +5,6 @@ pdfminer.six
 PyPDF2
 python-dotenv
 pdfplumber
+pillow 
+pytesseract 
+pdf2image
